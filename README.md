@@ -28,7 +28,14 @@ Você precisará baixar a Arduino IDE  [aqui](https://www.arduino.cc/en/software
 
 ### 3. Descrição do Hardware utilizado
 
-TODO:
+- 1x Arduino UNO R3 (by ROBOCORE)
+- 1x LED RGB
+- 3x Resistores 300Ω
+- 1x Sensor Ultrassônico
+- 1x Buzzer
+- 1x Motor de Vibração 1027
+- 13x Jumpers
+- 1x Protoboard 400
 
 
 
