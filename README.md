@@ -20,11 +20,13 @@ Aqui você encontrará:
 
 TODO:
 
-### 2. Breve descrição do funcionamento e do uso.
+### 2. Software desenvolvido
 
-Verifique o documento:
+Você precisará baixar a Arduino IDE  [aqui](https://www.arduino.cc/en/software) e rodar o aquivo que consta na raiz desse projeto:
 
-### 3. Breve descrição do funcionamento e do uso.
+**mcz-iot-2021.ino**
+
+### 3. Descrição do Hardware utilizado
 
 TODO:
 
