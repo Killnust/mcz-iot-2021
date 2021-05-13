@@ -1,8 +1,3 @@
-/*******************************************************************************
-* RoboCore Kit Iniciante V8 para Arduino - Fazendo Barulho 1
-* Pisca-pisca sonoro.
-*******************************************************************************/
-
 const int frequencia = 2500;
 const int TRIG = 3;
 const int ECHO = 2;
