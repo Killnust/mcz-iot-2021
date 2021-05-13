@@ -18,7 +18,8 @@ Aqui você encontrará:
 
 ### 1. Breve descrição do funcionamento e do uso.
 
-TODO:
+TODO: 
+Este trabalho teve como objetivo propor um protótipo de uma bengala inteligente que auxilia deficientes visuais a se locomoverem com melhor qualidade e segurança através da emissão de alertar sonoros e vibratórios diante da detecção de obstáculos. 
 
 ### 2. Software desenvolvido
 
